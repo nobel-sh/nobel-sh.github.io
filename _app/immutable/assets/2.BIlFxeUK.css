@@ -1,0 +1,1 @@
+:root{--cell-size:var(--large-cell-size)}.cell.svelte-1l0uxbr{width:var(--cell-size);height:var(--cell-size)}@media (max-width: 768px){:root{--cell-size:var(--small-cell-size)}}
